@@ -1,14 +1,27 @@
 This is gonna be where I'm gonna put my professional portfolio
 ## This is a test page for the new README.
 # Cybersecurity-Portfolio
-# README: 
-## What is a portfolio, and why is it necessary?
+# Cybersecurity Portfolio
 
-### Cybersecurity professionals use portfolios to demonstrate their security education, skills, and knowledge. 
-### Professionals typically use portfolios when they apply for jobs to show potential employers that they are
-### passionate about their work and can do the job they are applying for. Portfolios are more in depth than a resume,
-### which is typically a one-to-two page summary of relevant education, work experience, and accomplishments. 
-### You will have the opportunity to develop a resume, and finalize your portfolio, in the last course of this program. 
+## Introduction
+[Brief introduction about yourself]
 
+## Skills
+- Network Security
+- Penetration Testing
+- Incident Response
 
-# Cybersecurity-Portfolio
+## Projects
+- [Project 1]
+- [Project 2]
+
+## Certifications
+- Certified Ethical Hacker (CEH)
+- CompTIA Security+
+
+## Education
+- [Your Degree and University]
+
+## Contact Information
+- Email: your.email@example.com
+- LinkedIn: [Your LinkedIn Profile]
