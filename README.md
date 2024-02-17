@@ -10,5 +10,5 @@ This is a test page for the new README. # Cybersecurity-Portfolio
 ### which is typically a one-to-two page summary of relevant education, work experience, and accomplishments. 
 ### You will have the opportunity to develop a resume, and finalize your portfolio, in the last course of this program. 
 
-[Audit-Scope-and-Goals.docx](https://github.com/Stock81615/Cybersecurity-Portfolio/files/14317882/Audit-Scope-and-Goals.docx)
+
 # Cybersecurity-Portfolio
